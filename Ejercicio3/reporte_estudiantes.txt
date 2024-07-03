@@ -1,0 +1,5 @@
+Nombre	Matematica	Ciencias	Literatura	Aprobado	
+Tobi	    60	       80	        30	     False	
+Ricky	    50	       70	        60	     True	
+Galo	    100	       20	        100	     True	
+Tizi	    80	       80	        80	     True	
