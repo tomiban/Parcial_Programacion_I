@@ -31,7 +31,7 @@ class Program
             List<int> indicesPares = [];
             for (var i = 0; i < numeros.Count; i++)
             {
-                if ((numeros[i] & 1) == 0)
+                if (numeros[i] % 2 == 0)
                 {
                     indicesPares.Add(i);
                 }
